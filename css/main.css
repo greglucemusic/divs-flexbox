@@ -97,14 +97,14 @@ textarea {
 
 
 html {
-  background-color: #fff;
+  background-color: #000;
   height: 100%;
 }
 
 body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
-  font-size: 1.25em;
+  font-size: 1em;
   height: 100%;
 }
 
@@ -121,12 +121,15 @@ body {
   align-items: center;
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
-  height: 300px;
+  font-size: 1em;
+  padding: 1em;
+  background-color: #000;
+  height: 30%;
 }
-
-
+#middle {
+  border-right: 1px solid #c5c5c5;
+  border-left: 1px solid #c5c5c5;
+}
 
 
 /* ==========================================================================
